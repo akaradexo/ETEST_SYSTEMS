@@ -35,7 +35,7 @@
 									<input name="pwd" type="password" class="form-control input-lg" />
 									<span class="input-group-addon">
 										<span class="icon icon-lg">
-											<i class="fa fa-lock"></i>
+											<i class="fa fa-eye"></i>
 										</span>
 									</span>
 								</div>
