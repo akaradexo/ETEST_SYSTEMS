@@ -1,5 +1,4 @@
-
- <?php include "includes/head-logo.php"; ?>
+<?php include "includes/head-logo.php"; ?>
     <?php include "includes/header.php"; ?>
     <?php include "includes/sidebar.php"; ?>
 
@@ -92,15 +91,17 @@
 								<table class="table table-bordered table-striped mb-none" id="datatable-editable">
 									<thead>
 										<tr>
+											<th>Sr. No.</th>
 											<th>Name</th>
 											<th>Department</th>
-											<th>Date Registered</th>
+											<th>Created Date</th>
 											<th>Status</th>
 											<th>Actions</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr class="gradeX">
+											<td>1</td>
 											<td>Trident</td>
 											<td>Internet
 												Explorer 4.0
@@ -115,6 +116,7 @@
 											</td>
 										</tr>
 										<tr class="gradeC">
+											<td>2</td>
 											<td>Trident</td>
 											<td>Internet
 												Explorer 5.0
@@ -129,6 +131,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>3</td>
 											<td>Trident</td>
 											<td>Internet
 												Explorer 5.5
@@ -143,6 +146,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>4</td>
 											<td>Trident</td>
 											<td>Internet
 												Explorer 6
@@ -157,6 +161,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>5</td>
 											<td>Trident</td>
 											<td>Internet Explorer 7</td>
 											<td>Win XP SP2+</td>
@@ -169,6 +174,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>6</td>
 											<td>Trident</td>
 											<td>AOL browser (AOL desktop)</td>
 											<td>Win XP</td>
@@ -181,6 +187,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>7</td>
 											<td>Gecko</td>
 											<td>Firefox 1.0</td>
 											<td>Win 98+ / OSX.2+</td>
@@ -193,6 +200,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>8</td>
 											<td>Gecko</td>
 											<td>Firefox 1.5</td>
 											<td>Win 98+ / OSX.2+</td>
@@ -205,6 +213,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>9</td>
 											<td>Gecko</td>
 											<td>Firefox 2.0</td>
 											<td>Win 98+ / OSX.2+</td>
@@ -217,6 +226,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>10</td>
 											<td>Gecko</td>
 											<td>Firefox 3.0</td>
 											<td>Win 2k+ / OSX.3+</td>
@@ -229,6 +239,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>11</td>
 											<td>Gecko</td>
 											<td>Camino 1.0</td>
 											<td>OSX.2+</td>
@@ -241,6 +252,7 @@
 											</td>
 										</tr>
 										<tr class="gradeA">
+											<td>12</td>
 											<td>Gecko</td>
 											<td>Camino 1.5</td>
 											<td>OSX.3+</td>
@@ -358,7 +370,3 @@
 
 	
 <?php include "includes/footer.php"; ?>   	
-		
-		
-		
-	
