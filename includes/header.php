@@ -11,7 +11,7 @@
 				<!-- start: search & user box -->
 				<div class="header-right">
 			
-					<form action="pages-search-results.html" class="search nav-form">
+					<!-- <form action="pages-search-results.html" class="search nav-form">
 						<div class="input-group input-search">
 							<input type="text" class="form-control" name="q" id="q" placeholder="Search...">
 							<span class="input-group-btn">
@@ -19,10 +19,8 @@
 							</span>
 						</div>
 					</form>
-			
-					<span class="separator"></span>
-			
-					<ul class="notifications">
+			 -->
+					<!-- <ul class="notifications">
 						<li>
 							<a href="#" class="dropdown-toggle notification-icon" data-toggle="dropdown">
 								<i class="fa fa-tasks"></i>
@@ -181,17 +179,17 @@
 								</div>
 							</div>
 						</li>
-					</ul>
+					</ul> -->
 			
-					<span class="separator"></span>
+					
 			
 					<div id="userbox" class="userbox">
 						<a href="#" data-toggle="dropdown">
 							<figure class="profile-picture">
-								<img src="assets/images/!logged-user.jpg" alt="Joseph Doe" class="img-circle" data-lock-picture="assets/images/!logged-user.jpg" />
+								<img src="assets/images/kavin.png" alt="Joseph Doe" class="img-circle" data-lock-picture="assets/images/kavin.png" />
 							</figure>
 							<div class="profile-info" data-lock-name="John Doe" data-lock-email="johndoe@JSOFT.com">
-								<span class="name">John Doe Junior</span>
+								<span class="name">IT-Networkz Infosystem Pvt. Ltd.</span>
 								<span class="role">administrator</span>
 							</div>
 			
@@ -213,6 +211,7 @@
 							</ul>
 						</div>
 					</div>
+					<span >&nbsp</span>
 				</div>
 				<!-- end: search & user box -->
 			</header>

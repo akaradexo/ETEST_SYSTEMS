@@ -1,5 +1,6 @@
 <div class="inner-wrapper">
 				<!-- start: sidebar -->
+				
 				<aside id="sidebar-left" class="sidebar-left">
 				
 					<div class="sidebar-header">
@@ -30,58 +31,58 @@
 									</li>
 									<li class="nav-parent">
 										<a>
-											<i class="fa fa-copy" aria-hidden="true"></i>
-											<span>Pages</span>
+											<i class="fa fa-user" aria-hidden="true"></i>
+											<span>Master</span>
 										</a>
 										<ul class="nav nav-children">
 											<li>
-												<a href="pages-signup.html">
-													 Sign Up
+												<a href="manage-department.php">
+													 Department
 												</a>
 											</li>
 											<li>
-												<a href="pages-signin.html">
-													 Sign In
+												<a href="manage-category.php">
+													Category
 												</a>
 											</li>
 											<li>
-												<a href="pages-recover-password.html">
-													 Recover Password
+												<a href="manage-subjects">
+													 Subjects
+												</a>
+											</li>
+											<li>
+												<a href="manage-subject-info.php">
+													Subject Info
 												</a>
 											</li>
 											<li>
 												<a href="pages-lock-screen.html">
-													 Locked Screen
+													 User Permission
 												</a>
 											</li>
 											<li>
-												<a href="pages-user-profile.html">
+												<a href="user-profile.php">
 													 User Profile
 												</a>
 											</li>
 											<li>
-												<a href="pages-session-timeout.html">
+												<a href="session-timeout.php">
 													 Session Timeout
 												</a>
 											</li>
 											<li>
 												<a href="pages-calendar.html">
-													 Calendar
+													 Notice
 												</a>
 											</li>
 											<li>
 												<a href="pages-timeline.html">
-													 Timeline
+													 Packages
 												</a>
 											</li>
 											<li>
 												<a href="pages-media-gallery.html">
-													 Media Gallery
-												</a>
-											</li>
-											<li>
-												<a href="pages-invoice.html">
-													 Invoice
+													 Advertisement
 												</a>
 											</li>
 											<li>
@@ -113,13 +114,13 @@
 									</li>
 									<li class="nav-parent">
 										<a>
-											<i class="fa fa-tasks" aria-hidden="true"></i>
-											<span>UI Elements</span>
+										<i class="fa fa-address-card-o" aria-hidden="true"></i>
+											<span>Candidate</span>
 										</a>
 										<ul class="nav nav-children">
 											<li>
-												<a href="ui-elements-typography.html">
-													 Typography
+												<a href="manage-candidate.php">
+													 Candidate List
 												</a>
 											</li>
 											<li>
@@ -402,9 +403,9 @@
 								</div>
 								<div class="widget-content">
 									<ul class="list-unstyled m-none">
-										<li><a href="#">JSOFT HTML5 Template</a></li>
-										<li><a href="#">Tucson Template</a></li>
-										<li><a href="#">JSOFT Admin</a></li>
+										<li><a href="#">Etest-Admin Panel</a></li>
+										<!-- <li><a href="#">Tucson Template</a></li>
+										<li><a href="#">JSOFT Admin</a></li> -->
 									</ul>
 								</div>
 							</div>
