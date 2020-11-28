@@ -46,7 +46,7 @@
 												</a>
 											</li>
 											<li>
-												<a href="manage-subjects">
+												<a href="manage-subjects.php">
 													 Subjects
 												</a>
 											</li>
