@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.2
+-- version 5.0.4
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 24, 2020 at 05:21 AM
--- Server version: 10.4.11-MariaDB
--- PHP Version: 7.4.5
+-- Generation Time: Dec 04, 2020 at 09:04 AM
+-- Server version: 10.4.16-MariaDB
+-- PHP Version: 7.4.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -238,6 +238,7 @@ CREATE TABLE `tbl_category` (
   `id` int(11) NOT NULL,
   `category_id` varchar(11) DEFAULT NULL,
   `category_name` varchar(50) DEFAULT NULL,
+  `department_name` varchar(50) CHARACTER SET utf8 DEFAULT NULL,
   `created_by` varchar(100) DEFAULT NULL,
   `modified_by` varchar(100) DEFAULT NULL,
   `created_date` datetime NOT NULL DEFAULT current_timestamp(),
